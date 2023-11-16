@@ -427,3 +427,9 @@ img {
     margin-top: 3rem;
   }
 }
+
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
